@@ -17,3 +17,5 @@ Install Vial
 ## Step 3 
 
 Configure your ZMK Macropad!!!
+
+## Common Configurations
