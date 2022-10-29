@@ -18,4 +18,14 @@ Install Vial
 
 Configure your ZMK Macropad!!!
 
-## Common Configurations
+## Common Keymappings
+
+- Media Play/Pause
+- Next/Prev Media Track
+- Mute
+- Vol Up
+- Vol Dw
+- Switch Virtual Desktop Left
+- Switch Virtual Desktop Right
+
+
