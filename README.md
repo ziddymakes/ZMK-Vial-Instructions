@@ -19,7 +19,6 @@ Install Vial
 Configure your ZMK Macropad!!!
 
 ## Common Keymappings
-
 - Media Play/Pause
 - Next/Prev Media Track
 - Mute
@@ -27,5 +26,12 @@ Configure your ZMK Macropad!!!
 - Vol Dw
 - Switch Virtual Desktop Left
 - Switch Virtual Desktop Right
+
+
+## Photoshop
+
+## Gaming
+- World of Warcraft
+  - Timed ability sequences 
 
 
