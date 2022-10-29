@@ -1,16 +1,13 @@
 # ZMK-Vial-Instructions
 
 ## Step 1
-Download Vial https://get.vial.today/download/
+Use Vial Web or Download Vial onto your computer (Preferred) https://get.vial.today/download/
 
 
 ## Step 2
 Install Vial
-
-
-
-
-
+- Windows
+- Mac
 
 
 
