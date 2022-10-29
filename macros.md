@@ -1,5 +1,6 @@
 # Vial Macros Code Examples
-Info about macros https://get.vial.today/manual/macros.html
+Info about Vial Macros https://get.vial.today/manual/macros.html
+
 
 
 ## For Mac
