@@ -27,7 +27,7 @@ Configure your ZMK Macropad!!!
 
 <br>
 
-## Wanna Try out some Vial Layout Examples?
+## Wanna Try out some Vial Layout Examples on your ZMK Macropad?
 https://github.com/ziddymakes/ZMK-Vial-Instructions/tree/main/vial-example-layouts
 
 
