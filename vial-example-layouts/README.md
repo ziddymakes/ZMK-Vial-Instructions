@@ -13,7 +13,8 @@ File -> Load saved layout... -> *select a <ins>**.vil**</ins> file*
 If your lost about how to setup your macropad, you can use examples provided here as a starting point!
 
 ### ZMK 7
-- 
+- General
+  - MacOS Multimedia Control + Virtual Desktop Control
 
 
 ## How to Download a Layout
