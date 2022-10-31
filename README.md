@@ -3,13 +3,14 @@
 ## Step 1
 Use Vial Web or Download Vial onto your computer (Preferred) https://get.vial.today/download/
 
+<br>
 
 ## Step 2
 Install Vial
 - Windows
 - Mac
 
-
+<br>
 
 ## Step 3 
 
@@ -24,11 +25,10 @@ Configure your ZMK Macropad!!!
 - Switch Virtual Desktop Left
 - Switch Virtual Desktop Right
 
+<br>
 
-## Photoshop
+## Wanna Try out some Vial Layout Examples?
+https://github.com/ziddymakes/ZMK-Vial-Instructions/tree/main/vial-example-layouts
 
-## Gaming
-- World of Warcraft
-  - Timed ability sequences 
 
 
