@@ -1,21 +1,18 @@
 # ZMK-Vial-Instructions
 
-## Step 1
-Use Vial Web or Download Vial onto your computer (Preferred) https://get.vial.today/download/
-
+## Step 1 - Get Vial
+Download Vial onto your computer (Preferred) https://get.vial.today/download/
+<br>OR<br>
+Use Vial Web 
 <br>
 
-## Step 2
-Install Vial
+## Step 2 - Install Vial
 - Windows
 - Mac
 
 <br>
 
-## Step 3 
-
-Configure your ZMK Macropad!!!
-
+## Step 3 - Configure your ZMK Macropad!!!
 ## Common Keymappings
 - Media Play/Pause
 - Next/Prev Media Track
