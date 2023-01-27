@@ -7,13 +7,26 @@ Use Vial Web
 <br>
 
 ## Step 2 - Install Vial
-- Windows
-- Mac
+### Can't Open the Vial app on Windows?<br>
+<img align="top" style="vertical-align:top" src="https://github.com/ziddymakes/ZMK-Vial-Instructions/blob/main/media/drtfg3tt.png?raw=true" width="400"/> 
+
+#### How to open an Unrecognized app on Windows
+1. Click “More Info”<br>
+2. Click “Run anyway”
+
+<br>
+
+### Can't Open the Vial app on Mac?<br>
+
+#### How to open a Mac app from an unidentified developer
+1. In the Finder on your Mac, locate the app (Vial) you want to open.
+2. Control-click the app icon, then choose Open from the shortcut menu.
+3. Click Open 
 
 <br>
 
 ## Step 3 - Configure your ZMK Macropad!!!
-## Common Keymappings
+### Common Keymappings
 - Media Play/Pause
 - Next/Prev Media Track
 - Mute
