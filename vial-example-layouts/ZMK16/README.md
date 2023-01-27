@@ -1,4 +1,4 @@
-# ZMK 7 VIAL Layout Example
+# ZMK 16 VIAL Layout Example
 
 ## MacOS Multimedia Control + Virtual Desktop Control + Program Open (Via Spotlight)
 ZMK16_MacOS_Multimedia-vDesktop-ProgramOpen.vil
