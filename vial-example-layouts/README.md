@@ -17,4 +17,4 @@ If your lost about how to setup your macropad, you can use examples provided her
   - MacOS Multimedia Control + Virtual Desktop Control
 
 
-## How to Download a Layout
+<!-- ## How to Download a Layout -->
