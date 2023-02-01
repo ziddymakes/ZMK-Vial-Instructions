@@ -16,5 +16,8 @@ If your lost about how to setup your macropad, you can use examples provided her
 - General
   - MacOS Multimedia Control + Virtual Desktop Control
 
+### ZMK 16
+- General
+  - MacOS Multimedia Control + Virtual Desktop (Spaces) Control + Program Open (Via Spotlight)
 
 <!-- ## How to Download a Layout -->
